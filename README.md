@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Mariano Fuhr 👨‍💻
 
 ### A passionate fullstack developer from Ushuaia, Argentina
-- 🔭 I’m not currently working on any company, but I really want to get my first job as a developer
+- 🔭 I’m currently working as a Java FullStack developer in Compañía Latinoamericana de Sistemas SAS
 - 🌱 I’m currently learning a lot, taking remote courses about java, flutter and scrum framework
 - 💬 Ask me about **java, flutter, javascript, spring MVC**
 - 📫 How to reach me **mfuhr91@gmail.com**
