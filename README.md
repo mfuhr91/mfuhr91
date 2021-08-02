@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mariano-fuhr-3584181b7" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mariano-fuhr-3584181b7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mariano-a-fuhr/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mariano-fuhr-3584181b7" height="30" width="40" /></a>
 <a href="https://instagram.com/mariano.fuhr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mariano.fuhr" height="30" width="40" /></a>
 </p>
 
