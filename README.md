@@ -1,7 +1,7 @@
-## Hi 👋, I'm Mariano Fuhr 👨‍💻
+## Hi there 👋, I'm Mariano Fuhr 👨‍💻
 
 ### A passionate software developer from Ushuaia, Argentina
-- 🔭 I’m currently working as a developer at [Quantex](https://quantex.com.ar/)
+- 🔭 I’m currently working as a software developer at [Quantex](https://quantex.com.ar/)
 - 💬 Ask me about **golang, python, java, javascript**
 - 📫 You can reach me at **mfuhr91@gmail.com**
 
