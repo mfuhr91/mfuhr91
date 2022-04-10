@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Mariano Fuhr 👨‍💻
 
 ### A passionate software developer from Ushuaia, Argentina
-- 🔭 I’m currently working as a developer at Folder IT
-- 💬 Ask me about **java, flutter, javascript, spring MVC**
-- 📫 How to reach me **mfuhr91@gmail.com**
+- 🔭 I’m currently working as a developer at [Quantex](https://quantex.com.ar/)
+- 💬 Ask me about **golang, python, java, javascript**
+- 📫 You can reach me at **mfuhr91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
